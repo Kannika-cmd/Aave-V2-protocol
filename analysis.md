@@ -1,6 +1,6 @@
 # Wallet Score Analysis
 ## Overview
-An analysis of the wallet scores produced using the Aave V2 transaction data is presented in this document. Score distribution and behavioral insights derived from the scoring ranges are included in the analysis.
+An analysis of the wallet scores produced using the Aave V2 transaction data is presented in this document. Score distribution and behavioral insights derived from the scoring ranges are included in the analysis. 
 
 ## Score Distribution
 The wallet scores were categorized into ranges for analysis:
